@@ -19,7 +19,7 @@ All metadata is stored off-chain via IPFS (Pinata).
 * **ERC-1155 Game Characters:** The contract owner calls `mintBatch(address to, uint256[] ids, uint256[] amounts, bytes data)` to mint multiple character IDs at once. Normal transfer and approval functionalities are retained.
 
 ## Proof of Functionality (Transaction Hashes)
-* **ERC-721 Mint Transaction:** https://sepolia.etherscan.io/tx/0x7149334cde0087a560e1a31182b34b0a7a668e1feae73717a5b39ea41bcc638b
+* **ERC-721 Mint Transaction:** https://sepolia.etherscan.io/tx/0x38a7a761f9892286f7af51d4864d0a836f1c68d80b8828897eed93dc460d9274
 * **ERC-1155 Batch Mint Transaction:** https://sepolia.etherscan.io/tx/0x983c4872c0d340f08030ddca2fc80224ddc4c2231d3bb6ac5c04d97c298c8ef5
 
 <img width="1828" height="693" alt="Снимок экрана 2026-05-17 001836" src="https://github.com/user-attachments/assets/aa1de8e6-493e-48c5-ba68-1269d7b68087" />
