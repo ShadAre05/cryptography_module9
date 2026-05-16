@@ -1,0 +1,9 @@
+{
+  "name": "Character №2",
+  "description": "Game Character",
+  "image": "ipfs://bafkreicxdjj54qn5c7xqro2x25zk5woet3tuswvi2qgqhxt76dedcjsbgy",
+  "attributes": [
+    { "trait_type": "Strength", "value": "20" },
+    { "trait_type": "Speed", "value": "20" }
+  ]
+}

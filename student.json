@@ -1,0 +1,9 @@
+{
+  "name": "My Visit Card",
+  "description": "Blockchain Student 2026",
+  "image": "ipfs://bafkreigfxu7tr2qjex4dqrdtlon7kcpequzl7nsfjjpgn36kpydvxv3jgi",
+  "attributes": [
+   { "trait_type": "Student ID", "value": "12345" },
+   { "trait_type": "Course", "value": "Cryptography" }
+  ]
+}

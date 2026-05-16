@@ -1,0 +1,9 @@
+{
+  "name": "Character №6",
+  "description": "Game Character",
+  "image": "ipfs://bafkreifsgbf3qpavjgvhttiatzlhs4p43emzeb7glvrykdns32ipjqueju",
+  "attributes": [
+    { "trait_type": "Strength", "value": "60" },
+    { "trait_type": "Speed", "value": "60" }
+  ]
+}
